@@ -2,5 +2,13 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>BulletJournal</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sun, 04 Oct 2026 19:45:08 +0100</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jralden/bulletjournal-releases/releases/download/v0.1/BulletJournal-0.1.zip" length="1909210" type="application/octet-stream" sparkle:edSignature="hIOsjVo/2M5hePW1dlqIadQhPq5tb3sIZ5vV3cPmg4XJkurNBtndOiTPFVLS6vuVBS/MGfohF6SP7Of9zlf0Aw=="/>
+        </item>
     </channel>
 </rss>
